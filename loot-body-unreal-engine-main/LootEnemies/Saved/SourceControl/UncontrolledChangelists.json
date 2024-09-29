@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/github/LootEnemies/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"F:/github/LootEnemies/Content/BP_DeadEnemy.uasset",
+				"F:/github/LootEnemies/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"F:/github/LootEnemies/Content/BPI_Loot.uasset",
+				"F:/github/LootEnemies/Content/FirstPerson/Input/IMC_Default.uasset",
+				"F:/github/LootEnemies/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"F:/github/LootEnemies/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"F:/github/LootEnemies/Content/WB_LootLocation.uasset",
+				"F:/github/LootEnemies/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"F:/github/LootEnemies/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"F:/github/LootEnemies/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/JT/M3MD638O46IWCDFHM4Q6AK.uasset",
+				"F:/github/LootEnemies/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/O6/5K2A1RXP6GSNNNSPH3FKP6.uasset"
+			]
+		}
+	]
+}
