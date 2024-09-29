@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/github/unreal-cinematics/project/InventorySistem/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"F:/github/unreal-cinematics/project/InventorySistem/Content/Inventory/BPC_Inventory.uasset",
+				"F:/github/unreal-cinematics/project/InventorySistem/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"F:/github/unreal-cinematics/project/InventorySistem/Content/Inventory/BP_Item.uasset",
+				"F:/github/unreal-cinematics/project/InventorySistem/Content/Inventory/BPI_PickUp.uasset",
+				"F:/github/unreal-cinematics/project/InventorySistem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/T9/TP6025JUTS8D9OOC7U6NF9.uasset",
+				"F:/github/unreal-cinematics/project/InventorySistem/Content/Inventory/WB_Inventory.uasset",
+				"F:/github/unreal-cinematics/project/InventorySistem/Content/Inventory/WB_ItemSlot.uasset",
+				"F:/github/unreal-cinematics/project/InventorySistem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/Y2/3KZUYM6L7XUJACL40DYONM.uasset",
+				"F:/github/unreal-cinematics/project/InventorySistem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/LF/EP40FRMCM71LZCTDOQM8LP.uasset",
+				"F:/github/unreal-cinematics/project/InventorySistem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/C3/Z3GKCB4KPMS3RS3G1QF92V.uasset",
+				"F:/github/unreal-cinematics/project/InventorySistem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/O6/5P1KDAMPAUFLSJPEE4WLIH.uasset",
+				"F:/github/unreal-cinematics/project/InventorySistem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/72/4VGXJG7TGNXWDWWSAJFQ15.uasset",
+				"F:/github/unreal-cinematics/project/InventorySistem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/1R/A071H2L8VUG7HVKJ49K4S6.uasset"
+			]
+		}
+	]
+}
