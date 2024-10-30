@@ -1,0 +1,46 @@
+Değişken kavramı tüm programlama dillerinde olduğu gibi Blueprint'tede mevcuttur. Değişkenler verilerin geçici olarak saklandığı alanlardır. Örneğin 2.x2 işleminden çıkan 4 sonucunu daha sonra kullanılmak üzere geçici olarak saklamak istiyoruz. Bunun için değişkenlerden faydalanılır. Tutulacak değere farklı değişken türleri kullanılır ve bu türler Blueprint içinde farklı renklerle gösterilir.
+
+
+Boolean: True veya False  değerleri girilebilir. Bir şeyin doğruluğunu tutmak için veya iki durum arasında hangi durumda olduğumuzu tutmak için kullanılır. Örneğin karakter zıpladıysa tanımladığımız değişkeni True yapıp yere düştüğü zaman False olarak değiştirebiliriz.
+
+Integer: Tam sayı tutmak için kullanılır. Pozitif veya negatif değer içerebilir.
+
+Float: Ondalık sayılar tutmak için kullanılır. Örneğin 3.14 sayısını float türündeki bir değişkende saklayabilir.
+
+String: Alfabetik ve numerik karakterleri tutmak için kullanılır. Numerik karakterler eşittir dışında mantıksal bir kıyaslama da kullanılamaz. Bunun sayısal veri türlerine dönüştürülmeleri gerekir. Örneğin 4 olarak tanımlanmış bir string değişkenini > veya < şeklinde karşılaştıramayız. String fonksiyonları bu değişken türü ile kullanılır. String fonksiyonlarını daha sonraki bir yazımda açıklayacağım. Genel olarak karakterin uzunluğu, karakter içinden belli bir kısmı alma gibi farklı fonksiyonları kapsar.
+
+Text: Bu değişken tipi String gibi Alfabetik ve numerik değer tutabilir. Fakat bu değişken tipi String fonksiyonlarını kullanamaz. Daha çok UMG üzerinde bulunan Text Component'i için kullanılır.
+
+Vector: Konum bilgisi tumak için kullanılır. X,Y,Z eksenleri bulunur. Bu eksenler sahne uzayındaki konumu temsil eder.
+
+Rotator: Rotasyon bilgisi tumak için kullanılır. X,Y,Z eksenleri bulunur. Bu eksenler objenin eksen özelindeki açısını temsil eder.
+
+Transform: Vector,Rotator ve Scale bilgisi tutar. Farklı olarak Scale objenin X,Z,Y eksenlerine oranla boyutsal olarak büyüyüp küçülebilir. Objeyi boyutlandırmak için kullanılır.
+
+Object: Actor,Light Static Mesh, Camera gibi objeleri tutabilir.
+
+
+
+
+Değişkenler ingilizce karşılığı olan Veriables sekmesindeki + düğmesine basarak eklenebilir.
+
+Değişkenin üzerine tıkladığımızda Details panelinden değişene ait özellikler listelenir. Buradan değişkenin ismi, türü gibi birçok özellik değiştirilebilir. Bunların ne işe yaradığını açıklayacağım.
+
+Veriable Name: Değişken isminin değiştirileceği bölüm.
+Veriable Type: Değişken tipinin değiştirileceği bölüm.
+Editable: İşaretlenirse sahne üzerinden ait olduğu objenin Detail paneline eklenecektir. Buradan anlık olarak değerler görülüp değiştirilebilir.
+Tooltip: Değişkene ait açıklama eklemek için kullanılır.Fare ile üzerine gelindiği zaman açıklama ortaya çıkar.
+Expose on Spawn: Değişkenin ait olduğu obje dışarıdan yaratılmak istenirse yaratılırken bu değişkenin değer alabilmesine olanak tanır.
+Private: İşaretlenirse dışarıdan bu değişkene erişilemez.
+Expose to Cinematics: Matinee veya Sequencer üzerinden değişkene erişilmesine olanak tanır.
+Category: Değişkenleri kategorilendirmek için kullanılır. Böylelikle değişken sayısı arttıkça bulunması kolaylaşacaktır.
+
+
+Get ve Set Metodları
+
+Get: Değişkenin değerini getirmek için kullanılır.Değişken Ctrl tuşuna basılır tutularak sahneye sürüklenirse Get olarak gelir.
+Set: Değişkenin değerini değiştirmek için kullanılır.Değişken Alt tuşuna basılır tutularak sahneye sürüklenirse Set olarak gelir.
+
+Veya hiç bir tuşa basılmadan sürüklenirse aşağıdaki gibi bir kutu belirecektir. Buradan istediğimiz metodu seçebiliriz.
+
+Aşağıda her iki metoda ait resim bulunmaktadır.
