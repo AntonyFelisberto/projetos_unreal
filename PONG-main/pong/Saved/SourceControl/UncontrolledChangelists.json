@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/github/PONG/pong/Content/Level0.umap",
+				"F:/github/PONG/pong/Content/Level1.umap",
+				"F:/github/PONG/pong/Content/BLUEPRINTS/BP_MyGameMode.uasset",
+				"F:/github/PONG/pong/Content/BLUEPRINTS/BP_MyGameClearUI.uasset",
+				"F:/github/PONG/pong/Content/BLUEPRINTS/BP_MyScore.uasset",
+				"F:/github/PONG/pong/Content/BLUEPRINTS/BP_MyBlock.uasset"
+			]
+		}
+	]
+}
